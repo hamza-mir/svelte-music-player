@@ -1,8 +1,8 @@
 <script>
-	import Counter from "./lib/Counter.svelte";
+	import Button from "./lib/Button.svelte";
 </script>
 
-<Counter initialCount={3} maxCount={10} />
+<Button>Button Text</Button>
 
 <style>
 </style>
